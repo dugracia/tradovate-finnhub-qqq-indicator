@@ -1,0 +1,10 @@
+{
+  "name": "tradovate-finnhub-qqq-indicator",
+  "version": "1.0.0",
+  "description": "An indicator to show QQQ prices using Finnhub API",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["tradovate", "indicator", "finnhub", "qqq"],
+  "author": "Eduardo Gracia",
+  "license": "MIT"
+}
